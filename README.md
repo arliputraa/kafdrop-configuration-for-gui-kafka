@@ -1,4 +1,4 @@
-# Set Up Kafdrop for GUI (Graphical User Interface) Apache Kafka Ubuntu Server
+# Set Up Kafdrop GUI (Graphical User Interface) for Apache Kafka Ubuntu Server
 
 Create kafdrop directory
 
