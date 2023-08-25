@@ -42,6 +42,10 @@ Append this:
 
 ## Open kafdrop GUI
 Open in your browser
-    (your ip):9000
+    (your ip) :9000
 
 ![image](https://github.com/arliputraa/kafdrop-configuration-for-gui-kafka/assets/110078907/d245371d-07b9-48f6-9223-fb3d9944fd30)
+
+## For more Instalation Apache Kafka in this link: https://github.com/arliputraa/apache-kafka-instalation
+
+## For more Setup Kafka Cluster in this link: https://github.com/arliputraa/kafka-cluster-configuration
